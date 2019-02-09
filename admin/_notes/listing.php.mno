@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8" ?><info>	<infoitem key="UD_rs_listing" value="name:id;datatype:int,name:title;datatype:string,name:sub-title;datatype:string,name:sort_menu;datatype:int,name:body_content;datatype:blob,name:date-created;datatype:datetime,name:date-modified;datatype:timestamp,name:publish;datatype:string" /></info>

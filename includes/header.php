@@ -1,0 +1,1 @@
+<a href="index.php"><div id="logo"></div></a><div id="title"><h1>Machu Picchu</h1></div>
